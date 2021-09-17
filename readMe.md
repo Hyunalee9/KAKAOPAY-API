@@ -12,4 +12,4 @@ __Approval__
 
 ![result2](/assets/Approval.jpg)
 
-![result2](/assets/Approval2.png)
+![result2](/assets/Approval2.PNG)
