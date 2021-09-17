@@ -13,3 +13,5 @@ __Approval__
 ![result2](/assets/Approval.jpg)
 
 ![result2](/assets/Approval2.PNG)
+
+음 여담으로 11시 14분에 결제했는데 왜 20시 14분으로 나오는지 고민을 좀 해봐야겠다.
